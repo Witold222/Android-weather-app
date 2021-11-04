@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amiko</item>
+        <item>@font/basic</item>
+        <item>@font/biryani_extralight</item>
+        <item>@font/cagliostro</item>
+        <item>@font/cambay</item>
+        <item>@font/carme</item>
+    </array>
+</resources>
